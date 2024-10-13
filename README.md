@@ -4,7 +4,7 @@ An implementation of a circular flight pattern for use by a 3D multimedia displa
 Authors:  Shuqin Zhu (shuqinzh@usc.edu) and Shahram Ghandeharizadeh (shahram@usc.edu)
 
 ## An Implementation
-Click the image below to watch the YouTube clip of the implementation using 5 Crazyflies using the Vicon localization technique.
+Click the image below to watch the YouTube clip of the implementation using 5 Crazyflies with the Vicon localization technique.
 
 [![A Demonstration](https://github.com/flyinglightspeck/CircularFlightPattern/blob/main/simulation.png)](https://www.youtube.com/watch?v=_hcwj3lhY5g)
 
