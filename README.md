@@ -22,7 +22,7 @@ scipy.
 ## Instructions to Run
 Install Python 3.9 with the required libraries.  
 
-To run the simulator, execute the script implement_simu.py.  If using Mac OS, uncomment the line `mpl.use('macosx')` in implement_simu.py.
+To run the simulator, execute the script implement_simu.py, i.e., issue the command `python implement_simu.py` or `python3 implement_simu.py`.  If using Mac OS, uncomment the line `mpl.use('macosx')` in implement_simu.py.
 
 The simulator runs either the Shortest Distance (SD) or the Fastest Rendezvous Time (FRT) algorithm.  Adjust the value `path_policy` in config.py to run FRT (`path_policy=0`) or SD (`path_policy=1`).  
 
