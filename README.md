@@ -2,7 +2,7 @@
 An implementation of a circular flight pattern for use by a 3D multimedia display, a Dronevision (DV).  We provide two algorithms for an FLS to travel from its current coordinate to rendezvous with its assigned slot on the flight pattern, Shortest Distance (SD) and Fastest Rendezvous Time (FRT).
 
 ## An Implementation
-[![A Demonstration](https://github.com/flyinglightspecks/CircularFlightPattern/simulation.png)](https://www.youtube.com/watch?v=_hcwj3lhY5g)
+[![A Demonstration](https://github.com/flyinglightspeck/CircularFlightPattern/simulation.png)](https://www.youtube.com/watch?v=_hcwj3lhY5g)
 
 Authors:  Shuqin Zhu (shuqinzh@usc.edu) and Shahram Ghandeharizadeh (shahram@usc.edu)
 
