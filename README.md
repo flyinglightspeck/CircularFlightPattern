@@ -12,10 +12,10 @@ Authors:  Shuqin Zhu (shuqinzh@usc.edu) and Shahram Ghandeharizadeh (shahram@usc
 ``git clone https://github.com/flyinglightspeck/CircularFlightPattern.git``
 
 ## Requirements
-numpy
-matplotlib
-pandas
-scipy
+numpy,
+matplotlib,
+pandas,
+scipy.
 
 ## Acknowledgments
 This research was supported in part by the NSF grants IIS-2232382 and CMMI-2425754.
